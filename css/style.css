@@ -58,7 +58,7 @@ padding-right: 15px;
   margin: 20px ;
   text-align: center;
   font-size: 40px;
-  color: aliceblue;
+  color: rgb(181, 139, 197);
 
 }
 .main{
@@ -67,7 +67,7 @@ padding-right: 15px;
     display:flex;
 }
 .main div{
-    color: aliceblue;
+    color: rgb(99, 15, 132);
     height: 600px;
     position: relative;
     
@@ -79,7 +79,7 @@ padding-right: 15px;
     border: 1px solid greenyellow;
     background-color: burlywood;
     background-image: url("/img/pexels-kampus-production-7414098.jpg");
-    background-size: 100%;
+    background-size: cover;
     margin-left:20px ;
     background-repeat: no-repeat;
 }
@@ -97,7 +97,7 @@ padding-right: 15px;
 
     width: 60%;
     height: 200px;
-    position: absolute;
+    position: stack;
     
 
 }
