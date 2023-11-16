@@ -91,6 +91,8 @@ padding-right: 15px;
     background-color: rgb(58, 84, 84);
     margin-left: 20px;
     color:greenyellow;
+    padding-left: 30px;
+    margin-left: 30px;
 
 }
 .par p{
@@ -98,6 +100,7 @@ padding-right: 15px;
     width: 60%;
     height: 200px;
     position: stack;
+    padding-left: 25px;
     
 
 }
@@ -107,11 +110,11 @@ padding-right: 15px;
     text-decoration: 1.5px underline red;
     margin-bottom: 10px;
     font-size: 30px;
-    font
+    
 }
 
 .mid {
 
- display: flex;
+ display:flex;
 
 }
