@@ -44,3 +44,7 @@ padding-right: 4px;
     position: absolute;
     font-size: 40px;
 }
+.top>a>span{
+    color: aqua;
+}
+
