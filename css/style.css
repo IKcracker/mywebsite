@@ -74,7 +74,7 @@ padding-right: 15px;
 }
 .img {
 
-    width: 40%;
+    width: 50%;
     height: 340px;
     border: 1px solid greenyellow;
     background-color: burlywood;
@@ -103,9 +103,11 @@ padding-right: 15px;
 }
 .para>h2{
 
-    color: rgb(41, 199, 128);
+    color: rgb(233, 233, 233);
     text-decoration: 1.5px underline red;
     margin-bottom: 10px;
+    font-size: 30px;
+    font
 }
 
 .mid {
