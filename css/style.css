@@ -118,3 +118,19 @@ padding-right: 15px;
  display:flex;
 
 }
+.stories{
+
+    font-family: Arial, sans-serif;
+      max-width: 80%;
+      margin: 20px auto;
+      line-height: 1.6;
+      border-top: 2px solid greenyellow;
+      padding: 5px;
+}
+
+.stories > div>p {
+    margin-bottom: 20px;
+    width: 35%;
+    display: flexbox;
+
+}
