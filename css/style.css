@@ -1,1 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+}
+.top{
 
+    background-color: rgb(35, 6, 61);
+    height: 45px;
+    display: flexbox;
+    position: relative;
+}
+.top>ul{
+    text-align: right;
+    
+}
+.top>ul>li{
+
+    display: inline-block;
+   padding: 10px 3px 0px;
+   
+}
+
+.top>ul>li>a{
+display: inline-block;
+color: greenyellow;
+padding-right: 4px;
+
+
+}
+.top>ul>li>a:active{
+    
+    text-decoration: underline green;
+}
+
+.top>a{
+    width: 70px;
+    padding-left: 10px;
+    padding-bottom: 1px;
+    color: antiquewhite;
+    bottom:1px;
+    left: 2px;
+    position: absolute;
+    font-size: 40px;
+}
