@@ -3,10 +3,15 @@
     padding: 0px;
     list-style: none;
     text-decoration: none;
+    font-family: monospace;
+}
+body{
+
+    background-color: rgb(58, 84, 84);
 }
 .top{
 
-    background-color: rgb(35, 6, 61);
+    background-color: rgb( 106, 134, 133);
     height: 45px;
     display: flexbox;
     position: relative;
@@ -49,4 +54,62 @@ padding-right: 15px;
     color: aqua;
     text-decoration:underline 1.4px red;
 }
+.title {
+  margin: 20px ;
+  text-align: center;
+  font-size: 40px;
+  color: aliceblue;
 
+}
+.main{
+
+    background-color: rgb(28, 37, 58);
+    display:flex;
+}
+.main div{
+    color: aliceblue;
+    height: 600px;
+    position: relative;
+    
+}
+.img {
+
+    width: 40%;
+    height: 340px;
+    border: 1px solid greenyellow;
+    background-color: burlywood;
+    background-image: url("/img/pexels-kampus-production-7414098.jpg");
+    background-size: 100%;
+    margin-left:20px ;
+    background-repeat: no-repeat;
+}
+
+.para{
+
+    width: 50%;
+    height: 200px;
+    background-color: rgb(58, 84, 84);
+    margin-left: 20px;
+    color:greenyellow;
+
+}
+.par p{
+
+    width: 60%;
+    height: 200px;
+    position: absolute;
+    
+
+}
+.para>h2{
+
+    color: rgb(41, 199, 128);
+    text-decoration: 1.5px underline red;
+    margin-bottom: 10px;
+}
+
+.mid {
+
+ display: flex;
+
+}
