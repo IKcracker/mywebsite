@@ -45,7 +45,8 @@ padding-right: 15px;
     font-size: 40px;
 }
 .top>a>span{
-    
+    padding-bottom: 0px;
     color: aqua;
+    text-decoration:underline 1.4px red;
 }
 
